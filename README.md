@@ -19,10 +19,10 @@ Campina Grande, Paraíba
 
 <br>
 
-![Educação Estatística](https://img.shields.io/badge/Educa%C3%A7%C3%A3o%20Estat%C3%ADstica-1F6F54?style=for-the-badge)
-![Cienciometria](https://img.shields.io/badge/Cienciometria-B4553F?style=for-the-badge)
-![Humanidades Digitais](https://img.shields.io/badge/Humanidades%20Digitais-B8873B?style=for-the-badge)
-![Dados Abertos](https://img.shields.io/badge/Dados%20Abertos-2C4A6E?style=for-the-badge)
+![Educação Estatística](https://img.shields.io/badge/Educa%C3%A7%C3%A3o%20Estat%C3%ADstica-1F6F54?style=flat)
+![Cienciometria](https://img.shields.io/badge/Cienciometria-B4553F?style=flat)
+![Humanidades Digitais](https://img.shields.io/badge/Humanidades%20Digitais-B8873B?style=flat)
+![Dados Abertos](https://img.shields.io/badge/Dados%20Abertos-2C4A6E?style=flat)
 
 </div>
 
@@ -41,20 +41,20 @@ Na prática, transformo essa pesquisa em acervos digitais, buscadores e pipeline
 
 ## Projetos
 
-### Buscadores ![3 projetos](https://img.shields.io/badge/3%20projetos-1F6F54?style=flat-square)
+### Buscadores ![3 projetos](https://img.shields.io/badge/3%20projetos-1F6F54?style=flat)
 
 - **[Observatório EE](https://observatorioee.pages.dev)** — repositório digital com 259 teses e dissertações em Educação Estatística (1984–2013). [código](https://github.com/gerlansilva/observatorioEE)
 - **[BuscaEM](https://buscaem.pages.dev)** — buscador de artigos de periódicos de Educação Matemática, com pipeline de coleta OJS/OAI-PMH. [código](https://github.com/gerlansilva/BucaEM)
 - **[CAPES — Educação e Ensino](https://capesquisa.pages.dev)** — busca nas teses e dissertações da CAPES, com filtros por IES, ano e região. [código](https://github.com/gerlansilva/capes_eduensino)
 
-### Memória científica ![4 projetos](https://img.shields.io/badge/4%20projetos-B8873B?style=flat-square)
+### Memória científica ![4 projetos](https://img.shields.io/badge/4%20projetos-B8873B?style=flat)
 
 - **[Memória SIPEM](https://memoria-sipem.pages.dev)** — catálogo dos anais do SIPEM (2000–2024), com autores, GTs e links oficiais. [código](https://github.com/gerlansilva/memoria-sipem)
 - **[GT19 ANPEd](https://gt19anped.pages.dev)** — memória, encontros e produção científica do GT19 de Educação Matemática. [código](https://github.com/gerlansilva/GT19-Anped)
 - **[Memória EIEM](https://github.com/gerlansilva/Memoria-EIEM)** — acervo do Encontro Internacional de Ensino de Matemática, com atas e fichas de autores.
 - **[Acervo 1999](https://gerlansilva.github.io/acervo-educacao-estatistica-1999/)** — 61 trabalhos da I Conferência Internacional de Ensino de Estatística, recuperados do site original da UFSC. [código](https://github.com/gerlansilva/acervo-educacao-estatistica-1999)
 
-### Pesquisa e infraestrutura ![4 projetos](https://img.shields.io/badge/4%20projetos-B4553F?style=flat-square)
+### Pesquisa e infraestrutura ![4 projetos](https://img.shields.io/badge/4%20projetos-B4553F?style=flat)
 
 - **[Corpus da tese](https://corpus-tese.pages.dev)** — 200 artigos de Celi Espasandin Lopes e Carmen Batanero, com busca e exportação. [código](https://github.com/gerlansilva/corpus-tese)
 - **[GEM UFSCar](https://gemufscar.pages.dev)** — site do Grupo de Estudos e Pesquisas em Educação Matemática da UFSCar. [código](https://github.com/gerlansilva/GEM)
@@ -63,10 +63,10 @@ Na prática, transformo essa pesquisa em acervos digitais, buscadores e pipeline
 
 ## Ferramentas
 
-![Python](https://img.shields.io/badge/Python-1F6F54?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-B8873B?style=flat-square&logo=javascript&logoColor=white)
-![HTML e CSS](https://img.shields.io/badge/HTML%20e%20CSS-B4553F?style=flat-square&logo=html5&logoColor=white)
-![Quarto](https://img.shields.io/badge/Quarto-2C4A6E?style=flat-square&logo=quarto&logoColor=white)
-![Git](https://img.shields.io/badge/Git-1C2B25?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-1C2B25?style=flat-square&logo=githubactions&logoColor=white)
-![Cloudflare Pages](https://img.shields.io/badge/Cloudflare%20Pages-2C4A6E?style=flat-square&logo=cloudflarepages&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1F6F54?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-B8873B?style=flat&logo=javascript&logoColor=white)
+![HTML e CSS](https://img.shields.io/badge/HTML%20e%20CSS-B4553F?style=flat&logo=html5&logoColor=white)
+![Quarto](https://img.shields.io/badge/Quarto-2C4A6E?style=flat&logo=quarto&logoColor=white)
+![Git](https://img.shields.io/badge/Git-1C2B25?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-1C2B25?style=flat&logo=githubactions&logoColor=white)
+![Cloudflare Pages](https://img.shields.io/badge/Cloudflare%20Pages-2C4A6E?style=flat&logo=cloudflarepages&logoColor=white)
