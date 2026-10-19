@@ -6,7 +6,10 @@
 Campina Grande, Paraíba
 
 [![Site](https://img.shields.io/badge/gerlansilva.github.io-1F6F54?style=flat-square&logo=githubpages&logoColor=white)](https://gerlansilva.github.io)
-[![GitHub](https://img.shields.io/badge/%40gerlansilva-1C2B25?style=flat-square&logo=github&logoColor=white)](https://github.com/gerlansilva?tab=repositories)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--9996--9983-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-9996-9983)
+[![Lattes](https://img.shields.io/badge/Lattes-CV-1351B4?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTYgMmg4bDQgNHYxNkg2VjJ6bTggMS40VjdoMy42TDE0IDMuNHoiLz48L3N2Zz4%3D)](https://lattes.cnpq.br/2364822008221312)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-perfil-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=-EJ3_m8AAAAJ)
+[![GitHub](https://img.shields.io/badge/GitHub-gerlansilva-1C2B25?style=flat-square&logo=github&logoColor=white)](https://github.com/gerlansilva?tab=repositories)
 
 <br>
 
@@ -19,7 +22,7 @@ Campina Grande, Paraíba
 
 ## Sobre
 
-Sou doutorando em Educação no Programa de Pós-Graduação em Educação (PPGE) da Universidade Federal de São Carlos (UFSCar). Pesquiso a constituição da Educação Estatística articulando a análise cienciométrica da produção científica às trajetórias narrativas de pesquisadores.
+Sou doutorando em Educação no Programa de Pós-Graduação em Educação (PPGE) da Universidade Federal de São Carlos (UFSCar). Sou mestre em Educação Científica e Tecnológica (UFSC) e licenciado em Matemática e Física (UFOPA). Pesquiso a constituição da Educação Estatística articulando a análise cienciométrica da produção científica às trajetórias narrativas de pesquisadores.
 
 Na prática, transformo essa pesquisa em acervos digitais, buscadores e pipelines de dados que tornam a produção científica brasileira mais acessível: teses, dissertações, anais de eventos e artigos de periódicos. Os projetos são independentes, de acesso aberto e publicados como sites estáticos.
 
@@ -65,5 +68,8 @@ Na prática, transformo essa pesquisa em acervos digitais, buscadores e pipeline
 ## Contato
 
 - **Site:** [gerlansilva.github.io](https://gerlansilva.github.io)
+- **ORCID:** [0000-0002-9996-9983](https://orcid.org/0000-0002-9996-9983)
+- **Lattes:** [2364822008221312](https://lattes.cnpq.br/2364822008221312)
+- **Google Scholar:** [perfil](https://scholar.google.com/citations?user=-EJ3_m8AAAAJ)
 - **GitHub:** [@gerlansilva](https://github.com/gerlansilva)
 - **Local:** Campina Grande, Paraíba
