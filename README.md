@@ -28,9 +28,13 @@ Campina Grande, Paraíba
 
 ## Sobre
 
+<div align="justify">
+
 Sou doutorando em Educação no Programa de Pós-Graduação em Educação (PPGE) da Universidade Federal de São Carlos (UFSCar). Sou mestre em Educação Científica e Tecnológica (UFSC) e licenciado em Matemática e Física (UFOPA). Pesquiso a constituição da Educação Estatística articulando a análise cienciométrica da produção científica às trajetórias narrativas de pesquisadores.
 
 Na prática, transformo essa pesquisa em acervos digitais, buscadores e pipelines de dados que tornam a produção científica brasileira mais acessível: teses, dissertações, anais de eventos e artigos de periódicos. Os projetos são independentes, de acesso aberto e publicados como sites estáticos.
+
+</div>
 
 ## Pesquisa
 
