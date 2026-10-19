@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Gerlan Silva — Educação Estatística, ciência de dados e memória científica</title>
+  <desc id="desc">Banner com o nome Gerlan Silva, doutorando em Educação na UFSCar, e as áreas de Educação Estatística, ciência de dados e humanidades digitais.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0D2A23"/>
+      <stop offset="0.55" stop-color="#12362C"/>
+      <stop offset="1" stop-color="#0A211C"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.79" cy="0.34" r="0.55">
+      <stop offset="0" stop-color="#2F6B55" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#0A211C" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#D8A64A"/>
+      <stop offset="1" stop-color="#EACB8A"/>
+    </linearGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.1" fill="#E8E2D4" opacity="0.08"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect width="1200" height="300" fill="url(#glow)"/>
+  <rect width="1200" height="300" fill="url(#dots)"/>
+
+  <!-- Malha de conhecimento -->
+  <g fill="none" stroke="#D8A64A" stroke-width="1" opacity="0.32">
+    <path d="M772 158 L846 92 L932 128 L1010 74 L1092 120"/>
+    <path d="M772 158 L858 196 L936 236 L1032 196 L1104 224"/>
+    <path d="M846 92 L858 196"/>
+    <path d="M932 128 L936 236"/>
+    <path d="M1010 74 L1032 196"/>
+    <path d="M846 92 L932 128 L936 236 L1032 196 L1092 120 L1010 74 L932 128"/>
+    <path d="M772 158 L858 196 L846 92"/>
+  </g>
+
+  <g>
+    <circle cx="772" cy="158" r="6" fill="#EACB8A"/>
+    <circle cx="846" cy="92" r="4.5" fill="#EACB8A" opacity="0.9"/>
+    <circle cx="932" cy="128" r="5.5" fill="#F7F4ED"/>
+    <circle cx="1010" cy="74" r="3.5" fill="#EACB8A" opacity="0.85"/>
+    <circle cx="1092" cy="120" r="4" fill="#EACB8A" opacity="0.8"/>
+    <circle cx="858" cy="196" r="4" fill="#EACB8A" opacity="0.85"/>
+    <circle cx="936" cy="236" r="5" fill="#F7F4ED" opacity="0.95"/>
+    <circle cx="1032" cy="196" r="4.5" fill="#EACB8A" opacity="0.9"/>
+    <circle cx="1104" cy="224" r="3" fill="#EACB8A" opacity="0.7"/>
+  </g>
+
+  <g fill="none" stroke="#F7F4ED" opacity="0.12">
+    <circle cx="1004" cy="150" r="86"/>
+    <circle cx="1004" cy="150" r="128"/>
+  </g>
+
+  <text x="80" y="92" fill="#D8A64A" font-family="'Helvetica Neue', Arial, sans-serif" font-size="12.5" font-weight="600" letter-spacing="3.6">EDUCAÇÃO ESTATÍSTICA · CIÊNCIA DE DADOS · MEMÓRIA</text>
+
+  <text x="77" y="174" fill="#F7F4ED" font-family="Georgia, 'Times New Roman', serif" font-size="72" letter-spacing="-1">Gerlan Silva</text>
+
+  <rect x="80" y="196" width="76" height="3" rx="1.5" fill="url(#accent)"/>
+
+  <text x="80" y="234" fill="#D3E0D8" font-family="'Helvetica Neue', Arial, sans-serif" font-size="19">Doutorando em Educação · UFSCar</text>
+  <text x="80" y="263" fill="#9FB6AB" font-family="'Helvetica Neue', Arial, sans-serif" font-size="14.5">Acervos digitais, buscadores e análise da produção científica brasileira</text>
+</svg>
