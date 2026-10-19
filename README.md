@@ -5,11 +5,11 @@
 **Doutorando em Educação · UFSCar**  
 Campina Grande, Paraíba
 
-[![Site](https://img.shields.io/badge/gerlansilva.github.io-1F6F54?style=flat-square&logo=githubpages&logoColor=white)](https://gerlansilva.github.io)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--9996--9983-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-9996-9983)
-[![Lattes](https://img.shields.io/badge/Lattes-CV-1351B4?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTYgMmg4bDQgNHYxNkg2VjJ6bTggMS40VjdoMy42TDE0IDMuNHoiLz48L3N2Zz4%3D)](https://lattes.cnpq.br/2364822008221312)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-perfil-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=-EJ3_m8AAAAJ)
-[![GitHub](https://img.shields.io/badge/GitHub-gerlansilva-1C2B25?style=flat-square&logo=github&logoColor=white)](https://github.com/gerlansilva?tab=repositories)
+[![Site](https://img.shields.io/badge/-1F6F54?style=for-the-badge&logo=githubpages&logoColor=white)](https://gerlansilva.github.io)
+[![ORCID](https://img.shields.io/badge/-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-9996-9983)
+[![Lattes](https://img.shields.io/badge/-1351B4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTYgMmg4bDQgNHYxNkg2VjJ6bTggMS40VjdoMy42TDE0IDMuNHoiLz48L3N2Zz4%3D&logoColor=white)](https://lattes.cnpq.br/2364822008221312)
+[![Google Scholar](https://img.shields.io/badge/-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=-EJ3_m8AAAAJ)
+[![GitHub](https://img.shields.io/badge/-1C2B25?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gerlansilva?tab=repositories)
 
 <br>
 
@@ -64,12 +64,3 @@ Na prática, transformo essa pesquisa em acervos digitais, buscadores e pipeline
 ![Git](https://img.shields.io/badge/Git-1C2B25?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-1C2B25?style=flat-square&logo=githubactions&logoColor=white)
 ![Cloudflare Pages](https://img.shields.io/badge/Cloudflare%20Pages-2C4A6E?style=flat-square&logo=cloudflarepages&logoColor=white)
-
-## Contato
-
-- **Site:** [gerlansilva.github.io](https://gerlansilva.github.io)
-- **ORCID:** [0000-0002-9996-9983](https://orcid.org/0000-0002-9996-9983)
-- **Lattes:** [2364822008221312](https://lattes.cnpq.br/2364822008221312)
-- **Google Scholar:** [perfil](https://scholar.google.com/citations?user=-EJ3_m8AAAAJ)
-- **GitHub:** [@gerlansilva](https://github.com/gerlansilva)
-- **Local:** Campina Grande, Paraíba
