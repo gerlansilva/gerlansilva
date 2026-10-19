@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://gerlansilva.github.io"><img src="https://img.shields.io/badge/Portf%C3%B3lio-gerlansilva.github.io-14532D?style=flat-square&logo=githubpages&logoColor=white" alt="Portfólio acadêmico"></a>
-  <a href="https://github.com/gerlansilva?tab=repositories"><img src="https://img.shields.io/badge/Reposit%C3%B3rios-12-14532D?style=flat-square&logo=github&logoColor=white" alt="Repositórios"></a>
+  <a href="https://github.com/gerlansilva?tab=repositories"><img src="https://img.shields.io/badge/Todos%20os%20reposit%C3%B3rios-14532D?style=flat-square&logo=github&logoColor=white" alt="Repositórios"></a>
   <img src="https://img.shields.io/badge/Campina%20Grande-Para%C3%ADba-D8A64A?style=flat-square&logo=googlemaps&logoColor=white" alt="Campina Grande, Paraíba">
 </p>
 
