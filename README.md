@@ -1,6 +1,6 @@
 <div align="center">
 
-# Gerlan Silva
+# Gerlan Silva da Silva
 
 **Doutorando em Educação · UFSCar**  
 Campina Grande, Paraíba
