@@ -5,11 +5,17 @@
 **Doutorando em Educação · UFSCar**  
 Campina Grande, Paraíba
 
-[![Site](https://img.shields.io/badge/-1F6F54?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJhMTAgMTAgMCAxIDAgMCAyMCAxMCAxMCAwIDAgMCAwLTIwem02LjkgNmgtMi42YTE1IDE1IDAgMCAwLTEuMy0zLjZBOCA4IDAgMCAxIDE4LjkgOHpNMTIgNGMuOCAxLjEgMS40IDIuNSAxLjggNGgtMy42QzEwLjYgNi41IDExLjIgNS4xIDEyIDR6TTQuMyAxNGE4IDggMCAwIDEgMC00aDNhMTggMTggMCAwIDAgMCA0aC0zem0uOCAyaDIuNmMuMyAxLjMuOCAyLjUgMS4zIDMuNkE4IDggMCAwIDEgNS4xIDE2em0yLjYtOEg1LjFhOCA4IDAgMCAxIDMuOS0zLjZBMTUgMTUgMCAwIDAgNy43IDh6TTEyIDIwYy0uOC0xLjEtMS40LTIuNS0xLjgtNGgzLjZjLS40IDEuNS0xIDIuOS0xLjggNHptMi4yLTZIOS44YTE2IDE2IDAgMCAxIDAtNGg0LjRhMTYgMTYgMCAwIDEgMCA0em0uOCA1LjZjLjUtMS4xIDEtMi4zIDEuMy0zLjZoMi42YTggOCAwIDAgMS0zLjkgMy42ek0xNi42IDE0YTE4IDE4IDAgMCAwIDAtNGgzYTggOCAwIDAgMSAwIDRoLTN6Ii8%2BPC9zdmc%2B&logoColor=white)](https://gerlansilva.github.io)
-[![ORCID](https://img.shields.io/badge/-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-9996-9983)
-[![Lattes](https://img.shields.io/badge/-1351B4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTYgMmg4bDQgNHYxNkg2VjJ6bTggMS40VjdoMy42TDE0IDMuNHoiLz48L3N2Zz4%3D&logoColor=white)](https://lattes.cnpq.br/2364822008221312)
-[![Google Scholar](https://img.shields.io/badge/-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=-EJ3_m8AAAAJ)
-[![GitHub](https://img.shields.io/badge/-1C2B25?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gerlansilva?tab=repositories)
+<p align="center">
+  <a href="https://gerlansilva.github.io" title="Site"><img src="assets/icons/globe.svg" width="28" height="28" alt="Site"></a>
+  &nbsp;&nbsp;
+  <a href="https://orcid.org/0000-0002-9996-9983" title="ORCID"><img src="assets/icons/orcid.svg" width="28" height="28" alt="ORCID"></a>
+  &nbsp;&nbsp;
+  <a href="https://lattes.cnpq.br/2364822008221312" title="Lattes"><img src="assets/icons/lattes.svg" width="28" height="28" alt="Lattes"></a>
+  &nbsp;&nbsp;
+  <a href="https://scholar.google.com/citations?user=-EJ3_m8AAAAJ" title="Google Scholar"><img src="assets/icons/scholar.svg" width="28" height="28" alt="Google Scholar"></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/gerlansilva?tab=repositories" title="GitHub"><img src="assets/icons/github.svg" width="28" height="28" alt="GitHub"></a>
+</p>
 
 <br>
 
